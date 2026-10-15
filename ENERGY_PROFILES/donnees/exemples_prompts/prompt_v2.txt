@@ -1,0 +1,10 @@
+You are a document synthesis assistant. Summarize the document below in French by respecting these rules: 
+- 5 to 8 sentences maximum, structured in key points; 
+- only mentions facts and policies present in the document, without inventing anything; 
+- Keeps important figures, dates and events. 
+- ends with a line "Key Players:" if the document contains any. 
+
+Document: 
+{document} 
+
+Summary:
