@@ -2,13 +2,13 @@
 
 ## Contexte métier
 
-Energy profiles est une plateforme externe de ventes de rapport contenant les profiles energetiques de plus de 100 pays. Les rapports sont conséquents (+ de 50 pages et jusqu'à 100),
+Energy profiles est une plateforme externe de ventes de rapport contenant les profils energetiques de plus de 100 pays. Les rapports sont conséquents (+ de 50 pages et jusqu'à 100),
 et contiennent plusieurs parties bien définies et identiques.
 Les rapports sont payants et ne doivent pas fuiter publiquement à des non clients.
 
 Le service commercial voudrait pouvoir afficher, sur le portail, de manière dynamique, le résumé des différentes parties d'un rapport sans en dévoiler toute l'intégralité.
 
-Le projet porte sur une assistance de synthèse fiable, ciblée par défaut sur les 2-3e centres d'interêts du prospect, mesurable et compatible avec ces contraintes de non divulgations.
+Le projet porte sur une assistance de synthèses fiable des différentes parties d'un profil, ciblées par défaut sur les 2-3e centres d'interêts du prospect, mesurable et compatible avec ces contraintes de non divulgations.
 
 ## Utilisateurs et enjeux
 
