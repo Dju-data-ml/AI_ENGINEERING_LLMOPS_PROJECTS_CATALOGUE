@@ -8,9 +8,6 @@ Les rapports sont payants et ne doivent pas fuiter publiquement à des non clien
 
 Le service commercial voudrait pouvoir afficher, sur le portail, de manière dynamique, le résumé des différentes parties d'un rapport sans en dévoiler toute l'intégralité.
 
-
-LocalMind est une plateforme interne de traitement documentaire pour des équipes qui manipulent des rapports, comptes rendus et politiques internes sensibles. Les documents ne doivent pas sortir du système d'information. Les collaborateurs passent beaucoup de temps à lire des contenus longs pour en extraire l'essentiel.
-
 Le projet porte sur une assistance de synthèse fiable, ciblée par défaut sur les 2-3e centres d'interêts du prospect, mesurable et compatible avec ces contraintes de non divulgations.
 
 ## Utilisateurs et enjeux
