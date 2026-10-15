@@ -38,24 +38,27 @@ Les jeux suivants sont fournis. Ils représentent des sources de travail ; leur 
 
 ### Créations des synthèses des profils pays par des analystes juniors
 
-**Déclencheur → acteurs → informations consultées → décisions → actions → résultat attendu**  
-Profil rédigé → collaborateur junior → liste des sous parties du profil, contenu des sous parties → décider du type de synthèse utile et des informations à préserver → soumettre la demande → synthèse adaptée au besoin du portail.
+**Déclencheur → acteurs → informations consultées → décisions → actions → résultat attendu** 
 
-Frottements et risques observables : difficulté de séléction des éléments importants d'une partie, traitement très long, qualité syntaxique, trop de contenu exposé.
+> Profil rédigé → collaborateur junior → liste des sous parties du profil, contenu des sous parties → décider du type de synthèse utile et des informations à préserver → soumettre la demande → synthèse adaptée au besoin du portail.
+>
+> Frottements et risques observables : difficulté de séléction des éléments importants d'une partie, traitement très long, qualité syntaxique, trop de contenu exposé.
 
 ### Suivre un traitement long
 
-**Déclencheur → acteurs → informations consultées → décisions → actions → résultat attendu**  
-Demande en cours → collaborateur junior, service commercial → état du traitement, disponibilité des ressources, profil concerné → décider d'attendre, de relancer ou de réduire le périmètre de la demande → consulter l'avancement et récupérer le résultat lorsqu'il est disponible → utilisateur informé sans blocage opaque.
+**Déclencheur → acteurs → informations consultées → décisions → actions → résultat attendu** 
 
-Frottements et risques observables : durée imprévisible, échec non signalé, indisponibilité locale, perte de résultat.
+> Demande en cours → collaborateur junior, service commercial → état du traitement, disponibilité des ressources, profil concerné → décider d'attendre, de relancer ou de réduire le périmètre de la demande → consulter l'avancement et récupérer le résultat lorsqu'il est disponible → utilisateur informé sans blocage opaque.
+> 
+> Frottements et risques observables : durée imprévisible, échec non signalé, indisponibilité locale, perte de résultat.
 
 ### Publier les synthèses publiquement
 
 **Déclencheur → acteurs → informations consultées → décisions → actions → résultat attendu**  
-Synthèse préparée pour la publication → collaborateur junior, service commercial, service Research → document d'origine, synthèse, listes des utilisateur du portail profil → vérifier l'exactitude des informations → un responsable analyste humain valide la qualité, un responsable commercial le partage et le pays de chaque prospects → synthèse publiées avec liste des utilisateurs/prospects autorisés.
 
-Frottements et risques observables : synthèse inexacte, omission de nuance, diffusion à un mauvais destinataire, absence de validation, contenu non ciblé au "prospect".
+> Synthèse préparée pour la publication → collaborateur junior, service commercial, service Research → document d'origine, synthèse, listes des utilisateur du portail profil → vérifier l'exactitude des informations → un responsable analyste humain valide la qualité, un responsable commercial le partage et le pays de chaque prospects → synthèse publiées avec liste des utilisateurs/prospects autorisés.
+>
+> Frottements et risques observables : synthèse inexacte, omission de nuance, diffusion à un mauvais destinataire, absence de validation, contenu non ciblé au "prospect".
 
 ## Votre cadrage
 
